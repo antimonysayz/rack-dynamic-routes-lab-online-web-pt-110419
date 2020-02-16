@@ -20,7 +20,5 @@ class application
       resp.status = 404
     end
     resp.finsh
-
   end
-
 end
