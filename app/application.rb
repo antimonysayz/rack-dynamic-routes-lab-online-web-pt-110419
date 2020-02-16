@@ -19,7 +19,7 @@ class Application
       resp.write "Route not Found"
       resp.status = 404
     end
-    resp.finsh
+    resp.finish
   end
 
 end
